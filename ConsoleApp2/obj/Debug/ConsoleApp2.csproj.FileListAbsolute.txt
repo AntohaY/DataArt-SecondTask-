@@ -1,0 +1,9 @@
+C:\Users\Profi\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Profi\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Profi\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Profi\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Profi\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Profi\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Profi\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Profi\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Profi\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
